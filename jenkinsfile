@@ -19,5 +19,5 @@ steps{
 echo 'building'
 }
 }
-
+}
 }
